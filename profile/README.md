@@ -13,6 +13,6 @@ Just reach out through email or github!
 Access our site MMIST [here!](https://multi-modal-ist-mmist.github.io/)
 
 ### How to cite us?
-Either cite the paper where the dataset was first used and presented and/or acknowledge us: "The results shown in this work used datasets collected from MMIST: https://multi-modal-ist-mmist.github.io/"
+Either cite the paper where the dataset was first used and presented and acknowledge us: "The results shown in this work used datasets collected from MMIST: https://multi-modal-ist-mmist.github.io/"
 
 
