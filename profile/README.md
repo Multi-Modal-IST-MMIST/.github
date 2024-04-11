@@ -5,13 +5,12 @@ Our goal is to acquire, curate, and publicly release multi-modal datasets of dif
 Our compromises are:
   * Curate and release new datasets;
   * Periodically updat and improve the existing datasets;
-  * Provide benchmarks for different tasks using our datasers. 
+  * Provide benchmarks for different tasks using our datasets. 
 
 ### Wanna know more or collaborate?
 Just reach out through email or github!
 
 ### How to cite us?
-Either cite the paper where the 
-
+Either cite the paper where the dataset was first used and presented and/or acknowledge us: "The results shown in this work used datasets collected from MMIST:."
 
 
