@@ -9,6 +9,7 @@ Our compromises are:
 
 ### Wanna know more or collaborate?
 Just reach out through email or github!
+Access our cite [here](https://multi-modal-ist-mmist.github.io/)
 
 ### How to cite us?
 Either cite the paper where the dataset was first used and presented and/or acknowledge us: "The results shown in this work used datasets collected from MMIST:."
